@@ -6,8 +6,8 @@
   "type": "module",
   "scripts": {
      "test": "echo \"Error: no test specified\" && exit 1",
-  "dev": "node app.js",
-  "build": "echo 'No build process defined'"
+     "start": "node app.js",
+     "dev": "node app.js"
   },
   "author": "",
   "license": "ISC",
